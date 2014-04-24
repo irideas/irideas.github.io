@@ -18,15 +18,19 @@ a{text-decoration:none;cursor:pointer;}
 a:hover{text-decoration:underline;}
 	#doc {width: 100%;background: #eee}
 	
+	/*********弹出的区域开始*********/
 	#pop-area {width:108px;height: 430px;margin: 0 auto;background: url(http://p9.qhimg.com/d/inn/9469fc71/poptree.png) no-repeat 50% 50%;position: relative;}
 	#pop-area {margin-top: 1000px;} /*test*/
 
 	.pop-left,.pop-right {background: url(http://p9.qhimg.com/d/inn/9469fc71/pops.png) no-repeat 0 0;position: absolute;-webkit-transform: scale(0);transform: scale(0);}
 	.pop-left {right:100%;}
 	.pop-right {left:100%;}
-	/*ie10的ie9模式 不支持animation 但支持transform*/
+	
+
 	.pop-fly>.pop-left {
-	-webkit-transform: scale(1);transform: scale(1);/* 这里与.pop-left,.pop-right保持能力对称*/
+	/* 注意：ie10的ie9模式 不支持animation 但支持transform */
+	/* 这里与.pop-left,.pop-right保持能力对称 */
+	-webkit-transform: scale(1);transform: scale(1);
 	-webkit-animation: leftfly 1s ease-out 0;
 	animation: leftfly 1s ease-out 0;
 	-webkit-animation-fill-mode: forwards;
@@ -34,7 +38,6 @@ a:hover{text-decoration:underline;}
 	-webkit-transform-origin:right bottom;
 	transform-origin:right bottom; 
 	}
-
 	.pop-fly>.pop-right {
 	-webkit-transform: scale(1);transform: scale(1);
 	-webkit-animation: rightfly 1s ease-out 0;
@@ -44,14 +47,14 @@ a:hover{text-decoration:underline;}
 	-webkit-transform-origin:left bottom;
 	transform-origin:left bottom; 
 	}
-	.pop-left-a {width: 280px;height: 74px;background-position: 0 -1px;top:20%;}
-	.pop-left-b {width: 210px;height: 62px;background-position: -70px -90px;top:40%;}
-	.pop-left-c {width: 160px;height: 62px;background-position: -120px -166px;top:60%;}
-	.pop-left-d {width: 160px;height: 60px;background-position: -120px -245px;top:80%;}
-	.pop-right-a {width: 200px;height: 74px;background-position: -292px 0;top:20%;}
-	.pop-right-b {width: 212px;height: 62px;background-position: -291px -87px;top:40%;}
-	.pop-right-c {width: 181px;height: 62px;background-position: -291px -168px;top:60%;}
-	.pop-right-d {width: 112px;height: 60px;background-position: -291px -245px;top:80%;}
+	.pop-left-a {width: 280px;height: 74px;background-position: 0 -1px;top:15%;}
+	.pop-left-b {width: 210px;height: 62px;background-position: -70px -90px;top:36%;}
+	.pop-left-c {width: 160px;height: 62px;background-position: -120px -166px;top:54%;}
+	.pop-left-d {width: 160px;height: 60px;background-position: -120px -245px;top:73%;}
+	.pop-right-a {width: 200px;height: 74px;background-position: -292px 0;top:15%;}
+	.pop-right-b {width: 212px;height: 62px;background-position: -291px -87px;top:36%;}
+	.pop-right-c {width: 181px;height: 62px;background-position: -291px -168px;top:54%;}
+	.pop-right-d {width: 112px;height: 60px;background-position: -291px -245px;top:73%;}
 	
 	@-webkit-keyframes leftfly{
 		0% {right: 50%;-webkit-transform: scale(0);}
@@ -77,6 +80,7 @@ a:hover{text-decoration:underline;}
 	.pop-fly>.pop-left-b,.pop-fly>.pop-right-b {-webkit-animation-duration:1.3s;animation-duration:1.3s;}
 	.pop-fly>.pop-left-c,.pop-fly>.pop-right-c {-webkit-animation-duration:1.8s;animation-duration:1.8s;}
 	.pop-fly>.pop-left-d,.pop-fly>.pop-right-d {-webkit-animation-duration:2.3s;animation-duration:2.3s;}
+	/*********弹出的区域结束*********/
 </style>
 </head>
 <body>
