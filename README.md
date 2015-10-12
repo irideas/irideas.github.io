@@ -1,2 +1,1 @@
-# irideas.github.io
-This is irideas.github.io
+# irideas.com
