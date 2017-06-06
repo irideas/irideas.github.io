@@ -7,7 +7,7 @@ function closeWindow() {
     var Version = navigator.userAgent.substring(indexV, indexV + 1);
 
     if (Version >= 7) {
-        window.open('', '_parent', '');
+        window.open('about:blank', '_parent', '');
         window.close();
     }
     else if (Version == 6) {
