@@ -21,7 +21,7 @@ function closeWindow() {
             }
         }
         return ie;
-    })(),
+    })();
 
  if (msie) {
     var indexV = navigator.userAgent.indexOf('MSIE') + 5;
