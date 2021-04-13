@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T14:00:17.549Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="9wCDU6brIQFKO6g2u38d" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T14:00:31.571Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="qdT3f_t1vvJybBq7i257" version="14.6.0" type="github">
   <diagram id="1jS8HdlLek9ythfzZxmd" name="Page-1">
     <mxGraphModel dx="933" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="azdFt4TTLsHJrj7l6tKi-1" value="共用有限变量集？？？&lt;br&gt;&lt;br&gt;主题：颜色&amp;nbsp;&lt;br&gt;&lt;br&gt;语义化的变量？？？设计逻辑 原则" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="240" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="azdFt4TTLsHJrj7l6tKi-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=6;" parent="1" source="azdFt4TTLsHJrj7l6tKi-2" edge="1">
+        <mxCell id="azdFt4TTLsHJrj7l6tKi-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=6;entryX=0.868;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="azdFt4TTLsHJrj7l6tKi-2" target="azdFt4TTLsHJrj7l6tKi-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="380" as="targetPoint" />
           </mxGeometry>
@@ -22,7 +22,7 @@
           <mxGeometry x="590" y="50" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="azdFt4TTLsHJrj7l6tKi-3" value="应用的页面" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="390" width="260" height="160" as="geometry" />
+          <mxGeometry x="500" y="390" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="azdFt4TTLsHJrj7l6tKi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" parent="1" source="azdFt4TTLsHJrj7l6tKi-10" target="azdFt4TTLsHJrj7l6tKi-2" edge="1">
           <mxGeometry relative="1" as="geometry">
