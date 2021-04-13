@@ -1,1 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T13:48:08.368Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Z_k7nsiWEHWdJN1L9PBl" version="14.6.0" type="github"><diagram id="1jS8HdlLek9ythfzZxmd" name="Page-1">3VjbbqMwEP0aP7bijnmElGy125UqtdLuPjrBDXSdGBmnSfr1OzaGQKD3pq1Wqqrx8f3MzGEc5E6W22+ClPlPnlGGHCvbIvcMOU7kuvBfAbsa8H27BhaiyGqoA1wV99SAlkHXRUar3kDJOZNF2QfnfLWic9nDiBB80x92w1l/15Is6AC4mhM2RH8VmcxrFDvhHj+nxSJvdraDqO5ZkmawuUmVk4xvOpCbInciOJe1tdxOKFPcNbzU86YP9LYHE3QlnzOB3GdT6V1fX1Tn38VtyAL5ozixjXsquWtuTDMgwDS5kDlf8BVh6R5NBF+vMqqWtaG1H3PBeWnAWyrlzniTrCUHKJdLZnorKfjfls8AkPoUausHb2egiq/FnD52JRMlRCyofGyc1zoBgpfyJZViBxMFZUQWd/2DEBNGi3bcnmkwDNkvIb5e946wtdkJpT7CPkpslIYo8lCMURqgaIJwhNIIRfBn6TFTFGGF4FDZqitBOEDpFCUTFE1HDCdgwEQyE2AtpKZ7gKQeSjBKErVg7Ogt6ulxg0xQitVhEjh4QJbg6mQ1q8rx5UY2wCieovhM7xTpW8FlYINAXzhG2Bu73sO3UgumKEmNEdt6lqXvgBUeAck1ZakeDwZWPA4injGQExXZm7yQ9KokOsA2IGj9uDU+o0LS7eNxOgwrM8E1amDk0PFNe7MXF8czWN4VlsA6UiT6w0j8BEkA+sTuNzSsU88LGuCPAprG2bbX2nVbl1QUQAcVBrwpGJtwxoW+gHuD53Q+b5Wn0zPDvudbx9Yk55ma5L5RkszUS17ACduY87HfCzo38vtL1Ocysw7CqT3G6yPMGdE6rTZKWyApY527oUpcpQGeMpJG0EAhRrSkVqRQzwJDi2cC63Rk8NVZTqqyriRuiq0K6fdIex/38z4cpr3tjKW9c6y0d0c/QMAhfHr2H6BIuSbx9VfmTHF+yCpUNaUygQrCGGV8IcgSOCs7Cdnr62TqU47Q/BvFeCf59YK+H9xoRH+DD9Vf+1P09rglmPVMvXPeQ+9iIciuM6BUOlY9LIetz3fNU+OgcH5qvO8fOL0+wbtqZkPhi0VzWBSFKpOToSCKnC9n6+pDyp4DCr0R+Ruteo4mf3bw/2Wd90FVxtuIDz+1vDyxTi0L9+rLUzf0X1Njfg1nvlVC3+ZMb7SKgJot0SoFNQMUaY5+e4F0YVcbtnqlqZdZqGz1XGvffwM9+1JV3KGM2SM6hkdkDL9cxaC5/2mo/qjsf19z038=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-13T13:50:25.576Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="ZOEnWeDuhTc_hRcN_HXu" version="14.6.0" type="github">
+  <diagram id="1jS8HdlLek9ythfzZxmd" name="Page-1">
+    <mxGraphModel dx="933" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="azdFt4TTLsHJrj7l6tKi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" parent="1" source="azdFt4TTLsHJrj7l6tKi-1" target="azdFt4TTLsHJrj7l6tKi-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azdFt4TTLsHJrj7l6tKi-1" value="共用有限变量集？？？&lt;br&gt;&lt;br&gt;主题：颜色&amp;nbsp;&lt;br&gt;&lt;br&gt;语义化的变量？？？设计逻辑 原则" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="250" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="azdFt4TTLsHJrj7l6tKi-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.446;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=6;" parent="1" source="azdFt4TTLsHJrj7l6tKi-2" target="azdFt4TTLsHJrj7l6tKi-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="azdFt4TTLsHJrj7l6tKi-2" value="业务组件，&lt;br&gt;颗粒度？" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="580" y="70" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="azdFt4TTLsHJrj7l6tKi-3" value="应用页面" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="390" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="azdFt4TTLsHJrj7l6tKi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" parent="1" source="azdFt4TTLsHJrj7l6tKi-10" target="azdFt4TTLsHJrj7l6tKi-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="100" />
+              <mxPoint x="390" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="azdFt4TTLsHJrj7l6tKi-10" value="业务组件设计稿" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="40" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="azdFt4TTLsHJrj7l6tKi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" parent="1" source="azdFt4TTLsHJrj7l6tKi-14" target="azdFt4TTLsHJrj7l6tKi-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azdFt4TTLsHJrj7l6tKi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" parent="1" source="azdFt4TTLsHJrj7l6tKi-14" target="azdFt4TTLsHJrj7l6tKi-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azdFt4TTLsHJrj7l6tKi-14" value="区块/布局 类的组件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="290" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
