@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T13:52:09.084Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="p02zkPZsxbvJwtiVCaoi" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T13:52:29.615Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Jbr2lKQEgMsQc4z8TTAr" version="14.6.0" type="github">
   <diagram id="1jS8HdlLek9ythfzZxmd" name="Page-1">
     <mxGraphModel dx="933" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="azdFt4TTLsHJrj7l6tKi-1" value="共用有限变量集？？？&lt;br&gt;&lt;br&gt;主题：颜色&amp;nbsp;&lt;br&gt;&lt;br&gt;语义化的变量？？？设计逻辑 原则" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="250" width="240" height="160" as="geometry" />
+          <mxGeometry x="30" y="240" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="azdFt4TTLsHJrj7l6tKi-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.446;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=6;" parent="1" source="azdFt4TTLsHJrj7l6tKi-2" target="azdFt4TTLsHJrj7l6tKi-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -18,7 +18,7 @@
         <mxCell id="azdFt4TTLsHJrj7l6tKi-2" value="业务组件，&lt;br&gt;颗粒度？" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="590" y="60" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="azdFt4TTLsHJrj7l6tKi-3" value="应用页面" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="azdFt4TTLsHJrj7l6tKi-3" value="应用的页面" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="390" width="260" height="160" as="geometry" />
         </mxCell>
         <mxCell id="azdFt4TTLsHJrj7l6tKi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" parent="1" source="azdFt4TTLsHJrj7l6tKi-10" target="azdFt4TTLsHJrj7l6tKi-2" edge="1">
@@ -33,13 +33,17 @@
           <mxGeometry x="90" y="40" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="azdFt4TTLsHJrj7l6tKi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" parent="1" source="azdFt4TTLsHJrj7l6tKi-14" target="azdFt4TTLsHJrj7l6tKi-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="azdFt4TTLsHJrj7l6tKi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=6;" parent="1" source="azdFt4TTLsHJrj7l6tKi-14" target="azdFt4TTLsHJrj7l6tKi-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="azdFt4TTLsHJrj7l6tKi-14" value="区块/布局 类的组件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="290" y="140" width="80" height="80" as="geometry" />
+          <mxGeometry x="334" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FuPFpe4h8FPMtTvP8igd-1" value="业务组件开发者" style="shape=actor;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="750" y="100" width="40" height="60" as="geometry" />
